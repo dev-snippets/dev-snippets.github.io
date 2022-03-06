@@ -14,13 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dev Snippets
+author: Useful code snippets
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A glorified collection of useful code snippets.
+  A glorified collection of useful code snippets in the form of a blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
-github_username: dev-snippets
+# github_username: dev-snippets
+show_excerpts: true
 
 # Google Analytics
 google_analytics: G-Q3G1FDHFR0
