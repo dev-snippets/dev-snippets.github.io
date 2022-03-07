@@ -5,7 +5,7 @@ date:   2022-03-06 15:57:21 +0200
 categories: posts
 ---
 
-It does make sense that for first snippet to be about __GitHub Pages__. The [official documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is well structured so I will not be covering the setup process step-by-step. There are plenty of tutorials out there if you need that. 
+It does make sense for the first snippet to be about __GitHub Pages__. The [official documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is well structured so I will not be covering the setup process step-by-step. There are plenty of tutorials out there if you need that. 
 
 Instead, I plan to expand on some of the challenges I've encountered with the setup process. 
 
@@ -46,3 +46,4 @@ Here are some of the things you may want to consider after deploying your blog:
 
 - Add a __Contact me__ page with a contact form. I've used [Formspree](https://formspree.io/guides/jekyll/) to do this since 50 emails/month is enough right now and it was super easy to configure it.
 - Don't forget about Google Analytics & Google Search (and `jekyll-sitemap`) if you're interested in analytics data
+- Cookie banner and Privacy Policy
