@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dev Snippets
-author: Useful code snippets
+author: Dev Snippets
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A glorified collection of useful code snippets in the form of a blog.
