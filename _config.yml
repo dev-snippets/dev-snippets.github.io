@@ -36,6 +36,7 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
+  - pages/search.md
   - pages/about.md
   - pages/contact.md
 

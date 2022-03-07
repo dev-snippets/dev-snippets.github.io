@@ -3,6 +3,7 @@ layout: post
 title:  "Blogging with Jekyll and GitHub Pages"
 date:   2022-03-06 15:57:21 +0200
 categories: posts
+tag: github
 ---
 
 It does make sense for the first snippet to be about __GitHub Pages__. The [official documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is well structured so I will not be covering the setup process step-by-step. There are plenty of tutorials out there if you need that. 

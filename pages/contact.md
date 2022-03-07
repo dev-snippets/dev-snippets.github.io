@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Contact me"
+title:  "Contact"
 categories: contact
 ---
 ## Get in touch with me
