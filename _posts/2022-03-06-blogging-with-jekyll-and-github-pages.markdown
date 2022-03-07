@@ -17,7 +17,6 @@ Instead, I plan to expand on some of the challenges I've encountered with the se
 
 I've received this right from the start after attempting to execute `bundle exec jekyll serve`. Extremely disappointing, I know. :disappointed:
 
-{% include copy-code-header.html %}
 ```
 Liquid Exception: uninitialized constant Kramdown::Utils::OrderedHash in feed.xml
 bundler: failed to load command: jekyll (/home/user/gems/bin/jekyll)

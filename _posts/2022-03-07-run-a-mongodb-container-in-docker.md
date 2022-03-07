@@ -8,7 +8,6 @@ tags: [docker, mongodb]
 
 The following command should quickly fire up a development (no authentication) MongoDB container in Docker
 
-{% include copy-code-header.html %}
 ```docker
 docker run -d -p 27017:27017 --name mongodb mongo:latest
 ```

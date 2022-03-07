@@ -30,6 +30,7 @@ google_analytics: G-Q3G1FDHFR0
 # Build settings
 markdown: kramdown
 theme: minima
+highlighter: rouge
 plugins:
   - jekyll-feed
   - jemoji
