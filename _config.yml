@@ -19,7 +19,7 @@ author: Dev Snippets
 description: >- # this means to ignore newlines until "baseurl:"
   A glorified collection of useful code snippets in the form of a blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dev-snippets.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 # github_username: dev-snippets
 show_excerpts: true

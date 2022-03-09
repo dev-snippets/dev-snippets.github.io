@@ -34,4 +34,4 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 gem 'jemoji'
 
-gem 'jekyll-sitemap'
+gem 'jekyll-sitemap', :git => 'https://github.com/jekyll/jekyll-sitemap.git'
